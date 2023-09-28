@@ -1,7 +1,7 @@
 @font-face {
-    font-family: ebgaramondmedium;
+    font-family: EB Garamond;
     src:  url(ebgaramondmedium.woff) format('woff'),
-          url(ebgaramondmedium.ttf) format('ttf');
+          url(ebgaramondmedium.ttf) format('truetype');
     font-weight: 400;
 
   }
